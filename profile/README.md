@@ -181,6 +181,8 @@ git push origin feature/nueva-funcion
 
 <div align="center">
 
+<img width="140" src="https://github.com/isairey.png" style="border-radius: 50%;" />
+
 ## Isai Reyes — Founder & Full Stack Developer
 
 Desarrollador apasionado por la creación de plataformas modernas, inteligencia artificial y aplicaciones multimedia.
